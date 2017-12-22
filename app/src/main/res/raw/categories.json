@@ -1,0 +1,319 @@
+[
+  {
+    "name": "Quiz Kerajaan 1 Demak",
+    "id": "knowledge",
+    "theme": "yellow",
+    "quizzes": [
+      {
+        "type": "fill-blank",
+        "question": "Siapa raja pertama Kerajaann Demak ?",
+        "answer": "Raden Patah"
+      },
+      {
+        "type": "four-quarter",
+        "question": "Siapa yang melakukan penyerangan ke Portugis ?",
+        "options": [
+          "Adipati Unus",
+          "Fatahillah",
+          "Sultan Trenggono",
+          "Ki Ageng Pamanahan"
+        ],
+        "answer": [0]
+      },
+      {
+        "type": "four-quarter",
+        "question": "Pada Tahun Berapa Demak menyerang Portugis ?",
+        "options": [
+          "1500",
+          "1505",
+          "1507",
+          "1513"
+        ],
+        "answer": [3]
+      },
+      {
+        "type": "fill-blank",
+        "question": "Demak Mengalami Puncak Kejayaan Pada Pemerintahan....",
+        "answer": "Sultan Trenggono"
+      },
+      {
+        "type": "multi-select",
+        "question": "Sebutkan wilayah kekuasaan Demak pada masa pemerintahan Sultan Trenggono !",
+        "options": [
+          "Banten",
+          "Jayakarta",
+          "Cirebon",
+          "Maluku",
+          "Riau",
+          "Aceh"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "type": "picker",
+        "question": "Demak merebut Sunda Kelapa pada Tanggal.. Juni 1527",
+        "min": 0,
+        "max": 30,
+        "answer": 22
+      },
+      {
+        "type": "single-select",
+        "question": "Setelah Meninggalnya Sultan Trenggono, terjadi perang saudara antara ?",
+        "options": [
+          "Pangeran Sekar  Sedolepen dengan Sunan Prawoto dan Arya Penangsang",
+          "Joko Tingkir dengan Sultan Hadiwijaya",
+          "Sultan Ageng dengan Adipati Unus",
+          "Raden Patah dengan Sultan Trenggono"
+        ],
+        "answer": [0]
+      },
+      {
+        "type": "picker",
+        "question": "Pada tahun berapa pusat pemerintahan dipindahkan ke Pajang",
+        "min": 1490,
+        "max": 1620,
+        "answer": 1568
+      },
+      {
+        "type": "four-quarter",
+        "question": "Siapakah yang memindahkan pusat pemerintahan ke Pajang ?",
+        "options": [
+          "Pangeran Hadiwijoyo",
+          "Ki Ageng Pamanahan",
+          "Fatahillah",
+          "Sunan Kalijaga"
+        ],
+        "answer": [1]
+      },
+      {
+        "type": "fill-blank",
+        "question": "Pada tahun berapa Sultan Trenggana tewas ?",
+        "answer": "1546"
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Quiz Kerajaan 2 Banten",
+    "id": "history",
+    "theme": "blue",
+    "quizzes": [
+      {
+        "type": "fill-blank",
+        "question": "Kesultanan Banten mencapai puncak kejayaan pada masa pemerintahan....",
+        "start": "Sultan ",
+        "answer": "Ageng Tirtayasa"
+      },
+      {
+        "type": "single-select-item",
+        "question": "Dibawah ini adalah raja raja yang pernah memerintah Kerajaan Banten , kecuali?",
+        "options": [
+          "Sultan Ageng Tirtayasa",
+          "Panembahan Yusuf",
+          " Maulana Muhammad",
+          "Sultan Fahrulrozi",
+          "Abu Mufakir"
+        ],
+        "answer": [3]
+      },
+      {
+        "type": "true-false",
+        "question": "Yang merupakan komoditi utama barang ekspor Kerajaan Banten adalah Lada",
+        "answer": false
+      },
+      {
+        "type": "single-select-item",
+        "question": "Dibawah ini adalah contoh masjid peninggalan Kesultanan Banten , kecuali?",
+        "options": [
+          "Masjid Kasunyata",
+          "Masjid Agung",
+          " Masjid Palinan",
+          "Masjid Caringin",
+          " Masjid Agung Demak"
+        ],
+        "answer": [4]
+      },
+      {
+        "type": "fill-blank",
+        "question": "Kerajaan banten terletak di provinsi dan pulau.....",
+        "start": "Jawa Barat",
+        "answer": "Banten"
+      },
+      {
+        "type": "multi-select",
+        "question": "Kornoditas atau barang dagangan yang dibutuhkan oleh pasaran dunia terdapat di Kesultanan Banten. Komoditas itu adalah",
+        "options": [
+          "Tembakau",
+          "Lada",
+          "Beras",
+          "Kayu Manis",
+          "Rotan",
+          "Jati"
+        ],
+        "answer": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "four-quarter",
+        "question": "Kerajaan banten direbut oleh pasukan Demak di bawah dipimpin oleh....",
+        "options": [
+          "sultan",
+          "Fatimah",
+          "Jahiliah",
+          "Fatahillah"
+        ],
+        "answer": [3]
+      },
+      {
+        "type": "picker",
+        "question": "Kesultanan Banten Runtuh Pada Tahun",
+        "min": 1800,
+        "max": 18330,
+        "answer": 1813
+      },
+      {
+        "type": "single-select",
+        "question": "Pangeran Saba Kingkin lebih dikenal dengan nama ?",
+        "options": [
+          "Sultan Hasanuddin",
+          "Sultan Agung",
+          "Sultan Yusuf",
+          "Sultan Fatahillah",
+          "Sultan Maulana"
+        ],
+        "answer": [0]
+      },
+      {
+        "type": "fill-blank",
+        "question": "Pangeran Yusuf kemudian digantikan oleh ....",
+        "start": "Sultan",
+        "answer": "Maulana Muhammad"
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Quiz Kerajaan 3 Cirebon",
+    "id": "geography",
+    "theme": "red",
+    "quizzes": [
+      {
+        "type": "fill-blank",
+        "question": "siapa pendiri kerajaan di cirebon ?",
+        "start": "rd. ",
+        "answer": "walngsungsang"
+      },
+      {
+        "type": "fill-blank",
+        "question": "cirebon merupakan sebuah kerajaan yang berasal dari...",
+        "start": "Jawa",
+        "answer": "Barat"
+      },
+      {
+        "type": "true-false",
+        "question": "perekonomian kerajaan cirebon bersumber dari perdagangan",
+        "answer": true
+      },
+      {
+        "type": "single-select-item",
+        "question": "Sepeninggal Panembahan Girilaya, Kesultanan Cirebon terbagi menjadi dua yaitu....",
+        "options": [
+          "Kanoman dan Kasongan",
+          "Kuningan dan Indramayu",
+          "Kasepuhan dan lndramayu",
+          "Kanoman dan Kasepuhan"
+        ],
+        "answer": [3]
+      },
+      {
+        "type": "fill-blank",
+        "question": "pangeran walangsungsang sebagai pendiri cirebon yang telah selesai menunaikan ibadah haji kemudian disebu haji",
+        "answer": "abdullah"
+      },
+      {
+        "type": "fill-blank",
+        "question": "Pendirian kesultanan Cirebon memiliki hubungan sangat erat dengan keberadaan Kesultanan",
+        "answer": "Demak"
+      },
+      {
+        "type": "single-select-item",
+        "question": "Kerajaan Cirebon dulunya adalah bagian dari Kerajaan",
+        "options": [
+          "Demak",
+          "Pajajaran",
+          "Majapahit",
+          "Banten"
+        ],
+        "answer": [0]
+      },
+      {
+        "type": "fill-blank",
+        "question": " Syarif Hidayatullah juga dikenal sebagai",
+        "start": "Sultan",
+        "answer": "Gunung Jati"
+      },
+      {
+        "type": "single-select",
+        "question": "Saka Guru adalah bentuk hubungan baik antara Kerajaan Cirebon dengan",
+        "options": [
+          "Kerajaan Pajajaran",
+          "Kerajaan Majapahit",
+          "Kerajaan Pasai",
+          "Kerajaan Demak"
+        ],
+        "answer": [3]
+
+      },
+      {
+        "type": "picker",
+        "question": "Kesultanan Cirebon Runtuh Pada Tahun",
+        "min": 1600,
+        "max": 1680,
+        "answer": 1677
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  }
+]
